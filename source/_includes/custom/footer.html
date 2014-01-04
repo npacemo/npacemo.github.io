@@ -1,4 +1,95 @@
-<p>
-  Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+<section id="pre-footer" class="container">
+        <section class="row">
+            <div class="three">
+                <aside>
+                    <h3>Recent Posts</h3>
+                    <ul id="recent_posts">
+                        {% for post in site.posts limit: site.recent_posts %}
+                        <li class="post">
+                            <p><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></p>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </aside>
+            </div>
+            <div class="three">
+                {% if site.delicious_user %}
+                <aside>
+                  <h3>On Delicious</h3>
+                  <div id="delicious"></div>
+                  <script type="text/javascript" src="http://feeds.delicious.com/v2/json/{{ site.delicious_user }}?count={{ site.delicious_count }}&amp;sort=date&amp;callback=renderDeliciousLinks"></script>
+                  <p><a href="http://delicious.com/{{ site.delicious_user }}">My Delicious Bookmarks &#8594;</a></p>
+                </aside>
+                {% endif %}
+            </div>
+            <div class="three">
+                <aside>
+                {% if site.github_user %}
+                <aside>
+                  <h3>GitHub Repos</h3>
+                  <ul id="gh_repos">
+                    <li class="loading repo">Status updating...</li>
+                  </ul>
+                  {% if site.github_show_profile_link %}
+                  <p><a href="https://github.com/{{site.github_user}}">@{{site.github_user}}</a> on GitHub</p>
+                  {% endif %}
+                  <script type="text/javascript">
+                    $.domReady(function(){
+                        if (!window.jXHR){
+                            var jxhr = document.createElement('script');
+                            jxhr.type = 'text/javascript';
+                            jxhr.src = '{{ root_url}}/javascripts/libs/jXHR.js';
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(jxhr, s);
+                        }
+
+                        github.showRepos({
+                            user: '{{site.github_user}}',
+                            count: {{site.github_repo_count}},
+                            skip_forks: {{site.github_skip_forks}},
+                            target: '#gh_repos'
+                        });
+                    });
+                  </script>
+                  <script src="{{ root_url }}/javascripts/github.js" type="text/javascript"> </script>
+                </aside>
+                {% endif %}
+            </div>
+            <div class="three last">
+                <aside>
+                    <h3>Causes.com</h3>
+                    <div id="causes">
+                        <img src="https://cp-main.caudn.com/assets/stickers/save_the_oceans-f6c537a8103260a8f9570d4e23112d82.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/give_blood-349d4f5684450efc90664b0542309547.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/no_nukes-f455f526e6d233ec374653049a03a510.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/go_green-2801b8b0827a9388548770e08db891a2.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/think_global-c55051bfcdcf2ad70ec5d134859a6fd8.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/one_less_car-108ded5b56e9e531803b9ee96603d4bd.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/cancer_research_saves_lives-ccb370e003b33a920965fb0ab4568b3e.svg" width="64" height="64"></img>
+                        <img src="https://cp-main.caudn.com/assets/stickers/litter-d6e4b362a4e7c826eac376c5281eb5a8.svg" width="64" height="64"></img>
+                    </div>
+                    <p><a href="https://www.causes.com/profiles/11904070">My Causes Profile &#8594;</a></p>
+                </aside>
+            </div>
+        </section>
+    </section>
+    <footer class="container">
+        <section class="row">
+            <article class="six">
+                <p>
+                    <small>
+                        &copy; {{ site.time | date: "%Y" }} {{ site.author }} / Proudly powered by <a href="http://octopress.org">Octopress</a> /
+                        <br />
+                        <a href="https://github.com/billpatrianakos/matvre">Matvre</a> Theme by Bill Patrianakos
+                    </small>
+                </p>
+            </article>
+            <nav class="six last">
+                <ul>
+                    <li><a href="{{ root_url }}/">Blog</a></li>
+                    <li><a href="{{ root_url }}/about">About</a></li>
+                    <li><a href="{{ root_url }}/blog/archives">Archive</a></li>
+                </ul>
+            </nav>
+        </section>
+    </footer>

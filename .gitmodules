@@ -1,0 +1,3 @@
+[submodule ".themes/matvre"]
+	path = .themes/matvre
+	url = git@github.com:npacemo/matvre.git

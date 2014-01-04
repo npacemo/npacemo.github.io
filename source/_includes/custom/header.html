@@ -1,6 +1,10 @@
-<hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
-</hgroup>
+<header class="container">
+	<section class="row">
+		<div class="three">
+			<h1 id="title"><a id="title-link" href="{{ root_url }}/">{{ site.title }}</a></h1>
+		</div>
+		<nav class="nine last">
+			{% include navigation.html %}
+		</nav>
+	</section>
+</header>
