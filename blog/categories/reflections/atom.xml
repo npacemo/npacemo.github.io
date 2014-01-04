@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Reflections | Vladimir Tsvetkov]]></title>
+  <link href="http://npacemo.github.io/blog/categories/reflections/atom.xml" rel="self"/>
+  <link href="http://npacemo.github.io/"/>
+  <updated>2014-01-05T00:35:40+02:00</updated>
+  <id>http://npacemo.github.io/</id>
+  <author>
+    <name><![CDATA[Vladimir Tsvetkov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Return to the Habit of Recording and Sharing What I Learn]]></title>
+    <link href="http://npacemo.github.io/blog/2014/01/04/return-to-the-habit-of-recording-and-sharing-what-i-learn/"/>
+    <updated>2014-01-04T12:44:42+02:00</updated>
+    <id>http://npacemo.github.io/blog/2014/01/04/return-to-the-habit-of-recording-and-sharing-what-i-learn</id>
+    <content type="html"><![CDATA[<p>During my Christmas vacation I was spending some time thinking and exploring about ways to inspire my team at <a href="http://www.obecto.com/" title="Obecto - Boutique Software Development Company">Obecto</a> to expand its learning bandwidth. This has led me somehow to the <a href="http://manifesto.softwarecraftsmanship.org/#/en" title="Manifesto for Software Craftsmanship">Software Craftsmanship Manifesto</a> and then to the <a href="http://manifesto.softwarecraftsmanship.org/#/en/reading" title="Software Craftsmanship - Background Materials">Further Reading Materials</a> where I have found the online version of the <a href="http://chimera.labs.oreilly.com/books/1234000001813/index.html" title="Apprenticeship Patterns">Apprenticeship Patterns Book</a>. This book has caught my attention right from the start and in the next few days I felt necessary to read the whole book.</p>
+]]></content>
+  </entry>
+  
+</feed>
