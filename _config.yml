@@ -90,7 +90,7 @@ delicious_user: npacemo
 delicious_count: 5
 
 # Disqus Comments
-disqus_short_name: npacemo
+disqus_short_name: 
 disqus_show_comment_count: false
 
 # Google Analytics
