@@ -13,6 +13,13 @@ My name is Vladimir Tsvetkov. I'm a software engineer-practitioner-programmer, c
 {% img http://farm4.staticflickr.com/3683/11784507355_bd6b8797cc_o.jpg 640 480 Krissy and I at the seaside - 2012 %}
 </div>
 
+<div class="share-icons">
+<a class="icon-large icon-twitter-sign" title="Follow me on Twitter" href="http://twitter.com/npacemo"></a>
+<a class="icon-large icon-facebook-sign" title="Friend me on Facebook" href="https://www.facebook.com/npacemo"></a>
+<a class="icon-large icon-linkedin-sign" title="LinkedIn profile" href="http://www.linkedin.com/in/vtsvetkov"></a>
+<a class="icon-large icon-envelope" title="Email me (vtsvetkov at obecto.com)" href="#"></a>
+</div>
+
 ### Personal
 
 I'm a strong believer in that programming languages are more than a way to instruct hardware what to do, but rather a formal medium for expressing powerful ideas about methodology. I try to pursue meaning in my everyday activities and as much as possible to consciously shape my intents and understandings of the world, life and work. I'm one of the many people on Earth that are still struggling to find the line of hacks that would allow me to really contribute and be really useful instead of just linger through mundane tasks and necessities of imminent survival. I'm passionate about systems thinking and developing design awareness and sensibility for the value of things in a world of relativity and wastefulness. I'm a husband and a father. I'm a former short track speed skating national competitor and currently a competitor steward referee. I love running, building LEGO with my kid and I'm an espresso fanatic.
