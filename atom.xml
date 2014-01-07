@@ -4,7 +4,7 @@
   <title><![CDATA[Vladimir Tsvetkov]]></title>
   <link href="http://npacemo.github.io/atom.xml" rel="self"/>
   <link href="http://npacemo.github.io/"/>
-  <updated>2014-01-07T00:15:58+02:00</updated>
+  <updated>2014-01-07T23:27:04+02:00</updated>
   <id>http://npacemo.github.io/</id>
   <author>
 	<name><![CDATA[Vladimir Tsvetkov]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
+  
+  <entry>
+	<title type="html"><![CDATA[Switching Off Comments]]></title>
+	<link href="http://npacemo.github.io/blog/2014/01/07/switching-off-comments/"/>
+	<updated>2014-01-07T22:56:33+02:00</updated>
+	<id>http://npacemo.github.io/blog/2014/01/07/switching-off-comments</id>
+	<content type="html"><![CDATA[<blockquote><p><cite>At any rate, there is no evidence that quantity becomes quality in matters of human expression or achievement. What matters instead, I believe, is a sense of focus, a mind in effective concentration, and an adventuorus individual imagination that is distinct from the crowd.<br/>
+&mdash;&ndash; Jason Lanier, You are not a Gadget
+</cite></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
 	<title type="html"><![CDATA[Return to the Habit of Recording and Sharing What I Learn]]></title>
