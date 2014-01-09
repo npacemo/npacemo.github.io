@@ -128,6 +128,10 @@ time {
     top: 0;
 }
 
+article {
+    margin-bottom: 2em;
+}
+
 aside {
     & h1, h2, h3, h4, h5, h6 {
         font-family: Edmondsans-Bold, 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -264,6 +268,7 @@ a.read-more:hover {
 p.meta {
     display: block;
     clear: both;
+    line-height: 2em;
 }
 
 .pagination {
