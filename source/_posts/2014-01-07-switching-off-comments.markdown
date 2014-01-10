@@ -19,10 +19,25 @@ I felt really bad about this decision, so I had to fabricate some additional rat
 
 ## The reasoning against comments
 
-1. **Anonymity.** I don't understand why would someone post anonymously unless being really in danger.
-1. **Inarticulate responses.**
-1. **Unproductive controversy.**
-1. **The need for moderation.**
+1. **Anonymity.** I don't understand why would someone post anonymously unless being really in danger. Instead people use anonymity to detach the nasty things they type on their keyboards from their identity. It's defacing the conversation and stimulates behavior I don't want to be part of.
+1. **Inarticulate responses.** Comments rarely are the place where you can read a response that has took days or even an hour of reflection before the responder formulates his words. Usually, they express a basic primary reaction. It's like a shout in a room full of people. It doesn't contribute much to the presented material and it's a relatively poor attempt at establishing a connection. I'm longing for a deeper relationship. Take for example the way the life-long conversation between Carl Jung and Sigmund Freud was depicted in [A Dangerous Method (2011)][dangerous-method]. I've been fascinated by the intensity and especially the civility and great mutual respect in this relationship. I'm sure I'll be able to find many such examples where great minds have been able to keep alive a correspondence of enormous value and beauty, but this rarely happens in the form of exchanging few comments at the bottom part of a blog post.
+1. **Unproductive controversy.** I don't mind someone expressing a strong disagreement. Sometimes titles are designed to be provocative. But I do mind against controversy in the lines of Mac vs. PC, C# vs. Java, OOP vs. Functional, Vim vs. Emacs, Comments Off vs. Comments On etc. Often *(but not always)* such controversy is unproductive and shallow.
+1. **The need for moderation.** Moderation is an overhead activity that I would be happy not to do. Keeping the comments clean of spam and irrelevant comments is a distractive task I want to avoid.
+
+## Better ways to respond
+
+Switching off comments doesn't mean I want to prevent any kind of conversation happening. On the contrary, I want the conversations to be deeper, more personal instead of fragmentary and impersonal.
+
+In case you have read a post here and you want to reply, you can do the following:
+
+1. **Blog about it.** Writing is tough. Finding the right words is tough. But when the magic happens, the effects of a good blog post could pay you back in the long-term. Please, don't forget to let me know about your post. You can do this via email or a tweet.
+1. **Reply on Twitter.** You can either use the 'Tweet'-button at the bottom of an article, or tweet to [my Twitter account (@npacemo)][twitter-npacemo].
+1. **Email me.** You can find my contacts on the [About][about] page.
+
+Let's push it harder for some next level conversations!
 
 [octopress]: http://octopress.org/ "Octopress - A blogging framework for hackers"
 [disqus]: http://disqus.com/ "Disqus - The Web's Community of Communities"
+[dangerous-method]: http://www.imdb.com/title/tt1571222/ "A Dangerous Method (2011) - IMDb"
+[twitter-npacemo]: http://twitter.com/npacemo "Follow me on Twitter"
+[about]: /about "About Vladimir Tsvetkov"
