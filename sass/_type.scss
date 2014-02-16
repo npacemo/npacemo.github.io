@@ -30,7 +30,7 @@ p, pre, address, li, label {
   line-height: 1.5em;
   position: relative;
   top: 5px;
-  font-family: Fanwood, Georgia, 'Times New Roman', Times, serif;
+  font-family: BorgiaPro, Fanwood, Georgia, 'Times New Roman', Times, serif;
   @include text-shadow(0, 1px, 1px, $white);
   color: $ltblack;
 }

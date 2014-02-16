@@ -50,6 +50,47 @@ src: url('../font/fanwood_italic-webfont.eot?#iefix') format('embedded-opentype'
 }
 
 @font-face {
+font-family: 'BorgiaPro';
+src: url('../font/BorgiaPro-Regular-webfont.eot'); /* IE9 Compat Modes */
+src: url('../font/BorgiaPro-Regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/BorgiaPro-Regular-webfont.svg#FanwoodRegular') format('svg'), /* Legacy iOS */
+    url('../font/BorgiaPro-Regular-webfont.woff') format('woff'), /* Modern Browsers */
+    url('../font/BorgiaPro-Regular-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style: normal;
+}
+
+@font-face {
+font-family: 'BorgiaPro';
+src: url('../font/BorgiaPro-Italic-webfont.eot'); /* IE9 Compat Modes */
+src: url('../font/BorgiaPro-Italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/BorgiaPro-Italic-webfont.svg#FanwoodRegular') format('svg'), /* Legacy iOS */
+    url('../font/BorgiaPro-Italic-webfont.woff') format('woff'), /* Modern Browsers */
+    url('../font/BorgiaPro-Italic-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+}
+
+@font-face {
+font-family: 'BorgiaPro';
+src: url('../font/BorgiaPro-Bold-webfont.eot'); /* IE9 Compat Modes */
+src: url('../font/BorgiaPro-Bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/BorgiaPro-Bold-webfont.svg#FanwoodRegular') format('svg'), /* Legacy iOS */
+    url('../font/BorgiaPro-Bold-webfont.woff') format('woff'), /* Modern Browsers */
+    url('../font/BorgiaPro-Bold-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: bold;
+}
+
+@font-face {
+font-family: 'BorgiaPro';
+src: url('../font/BorgiaPro-BoldItalic-webfont.eot'); /* IE9 Compat Modes */
+src: url('../font/BorgiaPro-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/BorgiaPro-BoldItalic-webfont.svg#FanwoodRegular') format('svg'), /* Legacy iOS */
+    url('../font/BorgiaPro-BoldItalic-webfont.woff') format('woff'), /* Modern Browsers */
+    url('../font/BorgiaPro-BoldItalic-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
 font-family: 'SourceCodePro';
 src: url('../font/SourceCodePro-Regular-webfont.eot'); /* IE9 Compat Modes */
 src: url('../font/SourceCodePro-Regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -269,7 +310,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
 .icon-bookmark-empty:before       { content: "\f097"; }
 .icon-phone-sign:before           { content: "\f098"; }
 .icon-twitter:before              { content: "\f099"; }
-.icon-so:before              { content: "\f16c"; }
+.icon-so:before                   { content: "\f16c"; }
 .icon-facebook:before             { content: "\f09a"; }
 .icon-github:before               { content: "\f09b"; }
 .icon-unlock:before               { content: "\f09c"; }
