@@ -17,6 +17,7 @@ My name is Vladimir Tsvetkov. I'm a software engineer-practitioner-programmer, c
 <a class="icon-large icon-twitter-sign" title="Follow me on Twitter" href="http://twitter.com/npacemo"></a>
 <a class="icon-large icon-facebook-sign" title="Friend me on Facebook" href="https://www.facebook.com/npacemo"></a>
 <a class="icon-large icon-linkedin-sign" title="LinkedIn profile" href="http://www.linkedin.com/in/vtsvetkov"></a>
+<a class="icon-large icon-so-sign" title="StackOverflow profile" href="http://stackoverflow.com/users/780831/vladimir-tsvetkov"></a>
 <a class="icon-large icon-envelope" title="Email me (vtsvetkov at obecto.com)" href="#"></a>
 </div>
 

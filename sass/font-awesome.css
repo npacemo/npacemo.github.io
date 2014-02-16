@@ -206,6 +206,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
 
 .icon-bar-chart:before            { content: "\f080"; }
 .icon-twitter-sign:before         { content: "\f081"; }
+.icon-so-sign:before              { content: "\f16c"; }
 .icon-facebook-sign:before        { content: "\f082"; }
 .icon-camera-retro:before         { content: "\f083"; }
 .icon-key:before                  { content: "\f084"; }
@@ -230,6 +231,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
 .icon-bookmark-empty:before       { content: "\f097"; }
 .icon-phone-sign:before           { content: "\f098"; }
 .icon-twitter:before              { content: "\f099"; }
+.icon-so:before                   { content: "\f16c"; }
 .icon-facebook:before             { content: "\f09a"; }
 .icon-github:before               { content: "\f09b"; }
 .icon-unlock:before               { content: "\f09c"; }
