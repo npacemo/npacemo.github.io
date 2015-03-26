@@ -27,7 +27,7 @@ I'm a strong believer in that programming languages are more than a way to instr
 
 ### Professional
 
-My professional experience started at the end of 2005 and since then I had the chance to exercise virtually all roles and responsibilities involved in the completion of a software product. I'm a Co-Founder and VP Engineering of [Obecto][obecto] - a boutique software development company that's helping many startups realize their ideas ranging from massive online video conferencing to operation of hydrothermal carbonization plants. I'm also a Co-Owner and Co-Creator of [SEC Live][seclive] - a company set off to improve the way investors, analysts and fund managers work by fusing big data processing and great UX.
+My professional experience started at the end of 2005 and since then I had the chance to exercise virtually all roles and responsibilities involved in the completion of a software product and running a software company. I'm a Co-Founder and ~~VP Engineering~~ CEO of [Obecto][obecto] - a boutique software development company that's helping many startups realize their ideas ranging from massive online video conferencing to operation of hydrothermal carbonization plants. I'm also a Co-Owner and Co-Creator of [SEC Live][seclive] - a company set off to improve the way investors, analysts and fund managers work by fusing big data processing and great UX.
 
 ### Contact me
 
