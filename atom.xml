@@ -4,7 +4,7 @@
   <title><![CDATA[Vladimir Tsvetkov]]></title>
   <link href="http://npacemo.github.io/atom.xml" rel="self"/>
   <link href="http://npacemo.github.io/"/>
-  <updated>2015-03-26T16:49:52+02:00</updated>
+  <updated>2015-08-10T18:36:31+03:00</updated>
   <id>http://npacemo.github.io/</id>
   <author>
 	<name><![CDATA[Vladimir Tsvetkov]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Proudly Powered by Octopress</generator>
 
+  
+  <entry>
+	<title type="html"><![CDATA[Building the Obecto Technology Radar]]></title>
+	<link href="http://npacemo.github.io/blog/2014/04/30/building-the-obecto-technology-radar/"/>
+	<updated>2014-04-30T17:01:38+03:00</updated>
+	<id>http://npacemo.github.io/blog/2014/04/30/building-the-obecto-technology-radar</id>
+	<content type="html"><![CDATA[<p>We started <a href="http://obecto.com" title="My Company">Obecto</a> at the fall of 2008. During the period of 2007-2012, I was particularly focused on growing my company&rsquo;s Flex expertise <em>(including mine)</em>. For those that never heard of Flex, this is a front-end technology developed by Adobe. It&rsquo;s comprised of a set of <strong>programming languages</strong> (ActionScript 3 and MXML), a <strong>byte-code execution environment</strong> (Flash &amp; AIR) and a very mature set of quite sophisticated <strong>SDK and frameworks</strong> (Eclipse-base IDE, debugger, profiler, Cairngorm, Parsley, RobotMVC, etc.) As we were growing our expertise we had our share of contributions to the open source community, namely the <a href="https://code.google.com/p/flit/" title="FLit - a lightweight Flex for Flash Apps">FLit framework &mdash; alight-weight Flex for Flash Applications</a>. Our reputation grew to a point where the Bulgarian division of VMware contracted us to train over 80 of their finest engineers. We also taught a significant part of a Flex university course at the <em>Sofia University</em>&hellip;</p>
+
+<blockquote><p><cite>My point is, we become so damn good at Flex/Flash, and the technology was so powerful <em>(even now the most popular Javascript framework are still not providing the same capabilities and productivity)</em>, that our hubris blinded us from seeing the bigger picture in the technology world despite all of the signs <em>(e.g. the total lack of support of Flash on the iOS devices and mobile in general)</em>&hellip;</cite></p></blockquote>
+
+<!-- more -->
+
+
+<p>Flex was the answer to all of our needs &mdash; current and future &mdash; you name it: complex web applications, desktop applications and even a viable alternative to native mobile. Despite the unprecedented productivity and technology capabilities of Flex allowing the development of mind-blowing user interactions and user experiences, this technology was very quickly in decline. And it suddenly vanished one day, leaving my company with a portfolio of impressive projects done with a dead technology. We had to start basically from scratch to develop a new expertise, and build a new portfolio respectively, that will set us apart and beyond the average software development studio. It took us almost 2 years to regain expertise and build up our portfolio.</p>
+
+<blockquote><p><cite>That thought us an important lesson! Technology companies need a process to continuously assess new technology and discuss potential future directions, while at the same time maintain sharp focus at the technologies offered as main platform choices to their customers.</cite></p></blockquote>
+
+<p>As part of such process, at <a href="http://obecto.com" title="My Company">Obecto</a>, we decided to use a tool called <strong>Technology Radar</strong>. For those readers, unfamiliar with this tool and his concepts, I suggest reading <a href="http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html" title="Build Your Own Technology Radar">Build Your Own Technology Radar</a> <em>by Neil Ford</em>. The <em>radar</em> as <a href="http://www.thoughtworks.com/" title="ThoughtWorks corporate site">ThoughtWorks</a>, the company that invented it, defines it is:</p>
+
+<blockquote><p><cite>&hellip;a document that sets out the changes that we think are currently interesting in software development &ndash; things in motion that we think you should pay attention to and consider using in your projects. It reflects the idiosyncratic opinion of a bunch of senior technologists based on our day-to-day work and experiences.<br/>
+&mdash;&ndash; <strong>ThoughtWorks</strong>, <a href="http://www.thoughtworks.com/radar/faq" title="ThoughtWorks -- Technology Radar FAQ">Technology Radar &ndash; FAQ</a> </cite></p></blockquote>
+
+<p>So let me present you the first version of the Obecto technology radar:</p>
+
+<div class="screenshot">
+<img src="https://farm1.staticflickr.com/442/20456936485_17a922efe2_o.png" width="640" height="640" title="Obecto Tech. Radar - April 2014" >
+</div>
+
+
+<p>The first edition of our radar marks few important moments:</p>
+
+<ul>
+<li><strong>Flash/Flex</strong> &ndash; our departure from Flex/Flash has finished and it has deserved its honourable place in the graveyard of good technologies. Nonetheless, we&rsquo;re still continuing to support a couple of AIR desktop applications for the pharmaceutical industry.</li>
+<li><strong>Spring-Roo</strong> &ndash; even though <em>spring-roo</em> has saved us numerous hours of coding by generating the boilerplate and necessary plumbing for us, it has reached a point where projects that are using <em>spring-roo</em> are very difficult to maintain as tooling. The tooling behaves inconsistently across different versions and especially when combined with <strong>Eclipse STS</strong>. The <strong>Spring frameworks</strong> had matured to a level where we no longer need <em>spring-roo</em>. No new projects will be started with <em>spring-roo</em> and there&rsquo;s an undergoing initiative to get rid of <em>spring-roo</em> from all active projects. We expect to complete this effort until the end of 2014. It&rsquo;ll certainly be reflected on the coming editions of the radar.</li>
+<li><strong>Angular.JS</strong> &ndash; now that we no longer rely on the use of <em>Flex/Flash</em> for building web applications, we have adopted <em>Dojo 1.8</em> as one of our core technologies for building SPA <em>(Single Page Applications)</em>. Since the beginning of the year we have spotted <em>Angular.JS</em> as a better alternative to <em>Dojo</em> and we&rsquo;re in a process of active adoption. All new web application projects are using <em>Angular.JS</em> and we expect it to be fully adopted in the coming quarters.</li>
+<li><strong>JSP/JSF</strong> &ndash; using server-side generated pages still has its place in certain solutions. But the JSF technology is not intended to be the most performing web technology. Also as an enterprise technology it relies on a sufficient hardware. There is always some room for performance optimization, but regardless of performance there are certain limitations when trying to implement more sophisticated interaction design and UX, such as applying the <strong>mobile-first</strong> technique.</li>
+<li><strong>Node.js</strong> &ndash; after few successful pilot projects, we truly believe in the pursuit of a <strong>full Javascript</strong> technology stack. One programming language used across all application layers. With some rough edges for operations, it is time to put <em>Node.js</em> through a trial of several bit more complex projects.</li>
+</ul>
+
+
+<p>Don&rsquo;t hesitate to contact me if you have questions regarding any dot on the Obecto tech. radar.</p>
+
+<p>Keep in mind, this is a <strong>no comments</strong>-type of blog, because <a href="http://vladi.io/blog/2014/01/07/switching-off-comments/" title="Switching Off Comments">there are better ways to respond</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
 	<title type="html"><![CDATA[Switching Off Comments]]></title>

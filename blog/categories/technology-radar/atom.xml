@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Blogging | Vladimir Tsvetkov]]></title>
-  <link href="http://npacemo.github.io/blog/categories/blogging/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Technology Radar | Vladimir Tsvetkov]]></title>
+  <link href="http://npacemo.github.io/blog/categories/technology-radar/atom.xml" rel="self"/>
   <link href="http://npacemo.github.io/"/>
   <updated>2015-08-10T18:36:31+03:00</updated>
   <id>http://npacemo.github.io/</id>
@@ -55,50 +55,6 @@
 <p>Don&rsquo;t hesitate to contact me if you have questions regarding any dot on the Obecto tech. radar.</p>
 
 <p>Keep in mind, this is a <strong>no comments</strong>-type of blog, because <a href="http://vladi.io/blog/2014/01/07/switching-off-comments/" title="Switching Off Comments">there are better ways to respond</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Switching Off Comments]]></title>
-    <link href="http://npacemo.github.io/blog/2014/01/07/switching-off-comments/"/>
-    <updated>2014-01-07T22:56:33+02:00</updated>
-    <id>http://npacemo.github.io/blog/2014/01/07/switching-off-comments</id>
-    <content type="html"><![CDATA[<blockquote><p><cite>Anonymous blog comments, vapid video pranks, and lightweight mashups may seem trivial and harmless, but as a whole, this widespread practice of fragmentary, impersonal communication has demeaned interpersonal interaction.<br/>
-&mdash;&ndash; <strong>Jason Lanier</strong>, You are not a Gadget. A Manifesto.</cite></p></blockquote>
-
-<p>I realize I have never questioned the necessity of having a comments form in a blog. Somehow comments have always been inseparable part of my understanding of the concept of a blog. I hated the blogs and posts that had their comments disabled even though I leave comments rarely. When I&rsquo;ve started setting up this <a href="http://octopress.org/" title="Octopress - A blogging framework for hackers">Octopress</a> blog <strong><em>not using</em></strong> <a href="http://disqus.com/" title="Disqus - The Web's Community of Communities">Disqus</a> was out of the question. Every blogger loves comments. Presumably they provide the reader with an almost instantaneous connection with the author and vice versa. And you&rsquo;re getting this emotional boost every time you receive an encouraging response. And the more comments I got the better I felt. So what changed my mind about comments&hellip;</p>
-
-<!-- more -->
-
-
-<p>It started with an annoying technical issue. As of time of writing <em>(Jan 8, 2014)</em> the <a href="http://disqus.com/" title="Disqus - The Web's Community of Communities">Disqus</a> comments widgets was causing Google Chrome browsers on Mac OS X to freeze when attempting to load my blog <em>(and in fact any blog with a <a href="http://disqus.com/" title="Disqus - The Web's Community of Communities">Disqus</a> widget on it)</em> due to a browser-specific security constraint. If I wasn&rsquo;t that obsessive compulsive about having a consistently working blog on the major browsers I might have been able to live with that. But I imagined the situation of opening something in my favorite browser <em>(which is Firefox currently)</em> and getting a 100% reproducible freeze. I don&rsquo;t think I will open it again. That&rsquo;s a scary thought &ndash; to loose a reader because of a darn technical issue. So I had to switch off comments.</p>
-
-<p>I felt really bad about this decision, so I had to fabricate some additional rational reasons. To my surprise these <em>additional reasons</em> were already adopted on a certain non-verbal level in my mind and I had to just step on it to put it in words. The more I think and I write about that, the more comfortable I feel about this decision. I&rsquo;m letting go of this juvenile desire for approval by the crowd and I no longer need to use my comments count as a social currency and quantification of the quality of my blog.</p>
-
-<h2>The reasoning against comments</h2>
-
-<ol>
-<li><strong>Anonymity.</strong> I don&rsquo;t understand why would someone post anonymously unless being really in danger. Instead people use anonymity to detach the nasty things they type on their keyboards from their identity. It&rsquo;s defacing the conversation and stimulates behavior I don&rsquo;t want to be part of.</li>
-<li><strong>Inarticulate responses.</strong> Comments rarely are the place where you can read a response that has took days or even an hour of reflection before the responder formulates his words. Usually, they express a basic primary reaction. It&rsquo;s like a shout in a room full of people. It doesn&rsquo;t contribute much to the presented material and it&rsquo;s a relatively poor attempt at establishing a connection. I&rsquo;m longing for a deeper relationship. Take for example the way the life-long conversation between Carl Jung and Sigmund Freud was depicted in <a href="http://www.imdb.com/title/tt1571222/" title="A Dangerous Method (2011) - IMDb">A Dangerous Method (2011)</a>. I&rsquo;ve been fascinated by the intensity and especially the civility and great mutual respect in this relationship. I&rsquo;m sure I&rsquo;ll be able to find many such examples where great minds have been able to keep alive a correspondence of enormous value and beauty, but this rarely happens in the form of exchanging few comments at the bottom part of a blog post.</li>
-<li><strong>Unproductive controversy.</strong> I don&rsquo;t mind someone expressing a strong disagreement. Sometimes titles are designed to be provocative. But I do mind against controversy in the lines of Mac vs. PC, C# vs. Java, OOP vs. Functional, Vim vs. Emacs, Comments Off vs. Comments On etc. Often <em>(but not always)</em> such controversy is unproductive and shallow.</li>
-<li><strong>The need for moderation.</strong> Moderation is an overhead activity that I would be happy not to do. Keeping the comments clean of spam and irrelevant comments is a distractive task I want to avoid.</li>
-</ol>
-
-
-<h2>Better ways to respond</h2>
-
-<p>Switching off comments doesn&rsquo;t mean I want to prevent any kind of conversation happening. On the contrary, I want the conversations to be deeper, more personal instead of fragmentary and impersonal.</p>
-
-<p>In case you have read a post here and you want to reply, you can do the following:</p>
-
-<ol>
-<li><strong>Blog about it.</strong> Writing is tough. Finding the right words is tough. But when the magic happens, the effects of a good blog post could pay you back in the long-term. Please, don&rsquo;t forget to let me know about your post. You can do this via email or a tweet.</li>
-<li><strong>Reply on Twitter.</strong> You can either use the &lsquo;Tweet&rsquo;-button at the bottom of an article, or tweet to <a href="http://twitter.com/npacemo" title="Follow me on Twitter">my Twitter account (@npacemo)</a>.</li>
-<li><strong>Email me.</strong> You can find my contacts on the <a href="/about" title="About Vladimir Tsvetkov">About</a> page.</li>
-</ol>
-
-
-<p>Let&rsquo;s push it harder for some next level conversations!</p>
 ]]></content>
   </entry>
   
