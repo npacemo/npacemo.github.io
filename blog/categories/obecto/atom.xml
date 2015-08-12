@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Obecto | Vladimir Tsvetkov]]></title>
   <link href="http://npacemo.github.io/blog/categories/obecto/atom.xml" rel="self"/>
   <link href="http://npacemo.github.io/"/>
-  <updated>2015-08-10T18:49:57+03:00</updated>
+  <updated>2015-08-12T16:53:12+03:00</updated>
   <id>http://npacemo.github.io/</id>
   <author>
     <name><![CDATA[Vladimir Tsvetkov]]></name>
@@ -18,7 +18,7 @@
     <link href="http://npacemo.github.io/blog/2014/04/30/building-the-obecto-technology-radar/"/>
     <updated>2014-04-30T17:01:38+03:00</updated>
     <id>http://npacemo.github.io/blog/2014/04/30/building-the-obecto-technology-radar</id>
-    <content type="html"><![CDATA[<p>We started <a href="http://obecto.com" title="My Company">Obecto</a> at the fall of 2008. During the period of 2007-2012, I was particularly focused on growing my company&rsquo;s Flex expertise <em>(including mine)</em>. For those that never heard of Flex, this is a front-end technology developed by Adobe. It&rsquo;s comprised of a set of <strong>programming languages</strong> (ActionScript 3 and MXML), a <strong>byte-code execution environment</strong> (Flash &amp; AIR) and a very mature set of quite sophisticated <strong>SDK and frameworks</strong> (Eclipse-base IDE, debugger, profiler, Cairngorm, Parsley, RobotMVC, etc.) As we were growing our expertise we had our share of contributions to the open source community, namely the <a href="https://code.google.com/p/flit/" title="FLit - a lightweight Flex for Flash Apps">FLit framework &mdash; a light-weight Flex for Flash Applications</a>. Our reputation grew to a point where the Bulgarian division of VMware contracted us to train over 80 of their finest engineers. We also taught a significant part of a Flex university course at the <em>Sofia University</em>&hellip;</p>
+    <content type="html"><![CDATA[<p>We started <a href="http://obecto.com" title="My Company">Obecto</a> at the fall of 2008. During the period of 2008-2012, I was particularly focused on growing my company&rsquo;s Flex expertise <em>(including mine)</em>. For those that never heard of Flex, this is a front-end technology developed by Adobe. It&rsquo;s comprised of a set of <strong>programming languages</strong> (ActionScript 3 and MXML), a <strong>byte-code execution environment</strong> (Flash &amp; AIR) and a very mature set of quite sophisticated <strong>SDK and frameworks</strong> (Eclipse-base IDE, debugger, profiler, Cairngorm, Parsley, RobotMVC, etc.) As we were growing our expertise we had our share of contributions to the open source community, namely the <a href="https://code.google.com/p/flit/" title="FLit - a lightweight Flex for Flash Apps">FLit framework &mdash; a light-weight Flex for Flash Applications</a>. Our reputation grew to a point where the Bulgarian division of VMware contracted us to train over 80 of their finest engineers. We also taught a significant part of a Flex university course at the <em>Sofia University</em>&hellip;</p>
 
 <blockquote><p><cite>My point is, we become so damn good at Flex/Flash, and the technology was so powerful <em>(even now the most popular Javascript frameworks are still not providing the same capabilities and productivity)</em>, that our hubris blinded us from seeing the bigger picture in the technology world despite all of the signs <em>(e.g. the total lack of support of Flash on the iOS devices and mobile in general)</em>&hellip;</cite></p></blockquote>
 
