@@ -37,4 +37,6 @@ Keep in mind, this is a **no comments**-type of blog, because [there are better 
 [expressjs]: http://expressjs.com/ "Express - Node.js web application framework"
 [githubflow]: https://guides.github.com/introduction/flow/ "Understanding the GitHub Flow"
 [gitflow]: http://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model"
+[tech-faq]: http://www.thoughtworks.com/radar/faq "ThoughtWorks -- Technology Radar FAQ"
+[no-comments]: http://vladi.io/blog/2014/01/07/switching-off-comments/ "Switching Off Comments"
 
