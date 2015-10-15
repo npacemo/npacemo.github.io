@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obecto Tech Radar -- November 2014"
+title: "Obecto Tech Radar - November 2014"
 date: 2014-12-03 12:18:37 +0300
 comments: true
 categories: [Blogging, Obecto, Technology Radar]
