@@ -3,6 +3,7 @@ layout: post
 title: "Building the Obecto Technology Radar"
 date: 2014-04-30 17:01:38 +0300
 comments: true
+published: false
 categories: [Blogging, Obecto, Technology Radar] 
 ---
 
