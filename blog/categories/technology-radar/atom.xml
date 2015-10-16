@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Technology Radar | Vladimir Tsvetkov]]></title>
   <link href="http://npacemo.github.io/blog/categories/technology-radar/atom.xml" rel="self"/>
   <link href="http://npacemo.github.io/"/>
-  <updated>2015-10-15T16:14:24+03:00</updated>
+  <updated>2015-10-16T15:39:41+03:00</updated>
   <id>http://npacemo.github.io/</id>
   <author>
     <name><![CDATA[Vladimir Tsvetkov]]></name>
@@ -12,6 +12,115 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Obecto Tech Radar - May 2015]]></title>
+    <link href="http://npacemo.github.io/blog/2015/05/16/obecto-tech-radar-may-2015/"/>
+    <updated>2015-05-16T14:24:11+03:00</updated>
+    <id>http://npacemo.github.io/blog/2015/05/16/obecto-tech-radar-may-2015</id>
+    <content type="html"><![CDATA[<p>In our third edition of the radar, we have attempted to represent the radar in a way more approachable for customers and even non-technical people.
+How would you explain what the radar is to someone who&rsquo;s never seen it before?</p>
+
+<blockquote><p><cite>One of the biggest challenges is our industry is how to stay fresh. New technologies, tools and practices are coming in all the time — especially new unproven ones. Technology strategy will be at the core of most business strategies, and it is essential to have a plan how new technology is adopted.</cite></p></blockquote>
+
+<p>To answer the question above, at Obecto, we think that the <strong>tech radar</strong> is a really good way to proactively seek for new ways to do our work and bring competitive advantage to our customers, while at the same time maintain focus on what we currently do as standard practices in our industry and maintain the Obecto portfolio of projects in production.</p>
+
+<!-- more -->
+
+
+<p>The radar is organised in 4 quadrants:</p>
+
+<ul>
+<li><strong>Languages &amp; Platforms</strong></li>
+<li><strong>Tools &amp; Frameworks</strong></li>
+<li><strong>Techniques &amp; Methodology</strong></li>
+<li><strong>Practices</strong></li>
+</ul>
+
+
+<p>Within a quadrant there are rings showing the stage of adoption of each point:</p>
+
+<ul>
+<li><strong>Everyday Use</strong> — the final stage of adoption; considered to be our core expertise.</li>
+<li><strong>Proficient</strong> — used in production projects, but yet to be fully adopted.</li>
+<li><strong>Playing with</strong> — still in experimentation and research stage, used only in pet projects.</li>
+</ul>
+
+
+<h2>Languages &amp; Platforms</h2>
+
+<div class="screenshot">
+<img src="https://farm1.staticflickr.com/633/22030390419_423bb96fb2_o.png" width="640" height="640" title="Languages & Platforms - Obecto Tech. Radar - May 2015" >
+</div>
+
+
+<p>Some points from this quadrant that are worth highlighting:</p>
+
+<ul>
+<li><strong>Node.js</strong> — as our portfolio of Node.js project grows, this platform is in trend to be fully adopted in the near quarters.</li>
+<li><strong>Java 8</strong> — we’re following closely the Java 8 readiness of all frameworks we currently use and plan to migrate existing projects to Java 8.</li>
+<li><strong>Android &amp; iOS</strong> — our native apps mobile experience portfolio is not impressive enough to consider this fully adopted. Nevertheless, we feel proficient in both mobile platforms. That’s an expertise not to be underestimated!</li>
+<li><strong>Swift</strong> — our next iOS project will be in Swift instead of Objective C.</li>
+<li><strong>Clojure, Scala, Erlang</strong> — our team is quite excited about the functional programming languages. The following quarters will show if any new project would be approached with a solution that includes the functional style of programming.</li>
+<li><strong>ECMA Script 6</strong> — we’re experimenting with ECMA Script 6 to Javascript compilers that we can use in existing projects.</li>
+</ul>
+
+
+<h2>Tools &amp; Frameworks</h2>
+
+<div class="screenshot">
+<img src="https://farm1.staticflickr.com/592/22029213280_4b0f04cd3f_o.png" width="640" height="640" title="Tools & Frameworks - Obecto Tech. Radar - May 2015" >
+</div>
+
+
+<p>Our current selection of tools and frameworks is optimised for building very efficiently Single Page Applications (SPA) with backends providing REST APIs.</p>
+
+<ul>
+<li><strong>Symfony 2</strong> — in the current edition of the radar we’re putting on hold Code Igniter taking it out of everyday use. All new PHP projects are started with Symfony. All PHP projects in production have been migrated to Symfony 2.</li>
+<li><strong>Bootstrap</strong> — when it comes to responsive web applications and mobile-first, 2014 was a very busy year for us (for more info check our mobile experience portfolio).</li>
+<li><strong>Mongo</strong> — very soon Mongo will get its place in the core ring next to the relational databases we typically use (e.g. MySQL and PostgreSQL).</li>
+<li><strong>Cassandra &amp; Hadoop</strong> — even though these are placed in the Proficient ring it worths mentioning that we have over 2 years of experience in using them as part of our custom analytics solution that we built for <a href="http://newstag.com/" title="Newstag - you are it!">Newstag</a>.</li>
+</ul>
+
+
+<h2>Techniques &amp; Methodology</h2>
+
+<div class="screenshot">
+<img src="https://farm1.staticflickr.com/672/21594525034_31c532dcc4_o.png" width="640" height="640" title="Techniques & Methodology - Obecto Tech. Radar - May 2015" >
+</div>
+
+
+<p>The process and methodology in Obecto has evolved to support projects of varying complexity and size with ever increasing focus on being as lean as possible.</p>
+
+<ul>
+<li><strong>SCRUM</strong> — we consider ourselves experts in applying the <em>SCRUM framework</em> for projects that need to sustain longer term development.</li>
+<li><strong>OOP</strong> — we still feel that the <em>Object Oriented Programming</em> paradigm when combined with good knowledge of the <em>Design Patterns</em> and the <em>SOLID principles</em> gives the most versatile approach for software projects.</li>
+<li><strong>Responsive &amp; Mobile-First</strong> — when it comes to responsive web applications and mobile-first, 2014 was a very busy year for us. These two techniques have become a valuable additions to our core expertise.</li>
+<li><strong>Customer Development</strong> — that’s a lean startup methodology. Nevertheless, when applied in the context of the early stages of a software project it brings very efficiently validation and verification of the core concepts and assumptions by using a systematic approach.</li>
+</ul>
+
+
+<h2>Practices</h2>
+
+<div class="screenshot">
+<img src="https://farm1.staticflickr.com/727/22217268745_14d047471e_o.png" width="640" height="640" title="Practices - Obecto Tech. Radar - May 2015" >
+</div>
+
+
+<p>Practices are specific elements that we use and apply in our software development process, such as how we write, or test, or release our code.</p>
+
+<ul>
+<li><strong>Clean Code</strong> — we have projects that need to sustain development in the longer term. Cleanliness of the code is crucial when we need to maintain our productivity in the long term.</li>
+<li><strong>TAD</strong> — <em>Testing After Development</em> is a practice where the unit test is written after the actual code, and only specific part of the code are put under such unit testing instead of being in pursuit of 100% code coverage. For many project we have done exactly the opposite and we’re very proficient in <strong>TDD</strong> <em>(Test Driven Development)</em>, as well as writing <em>end-to-end tests</em> with the help of <strong>BDD</strong> <em>(Behaviour Driven Design)</em>.</li>
+<li><strong>Story Points</strong> — we’re currently playing with Story Points in the practice of estimation and we’re looking forward to use this practice in our customers’ projects.</li>
+</ul>
+
+
+<p>Don&rsquo;t hesitate to contact me if you have questions regarding any dot on the Obecto tech. radar.</p>
+
+<p>Keep in mind, this is a <strong>no comments</strong>-type of blog, because <a href="http://vladi.io/blog/2014/01/07/switching-off-comments/" title="Switching Off Comments">there are better ways to respond</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Obecto Tech Radar - November 2014]]></title>
