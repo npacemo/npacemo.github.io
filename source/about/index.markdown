@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-My name is Vladimir Tsvetkov. I'm a software engineer-practitioner-programmer, computer scientist and UX design enthusiast. I'm building software that delivers valuable change to the world. I live in Sofia, Bulgaria with my wife and my daughter. 
+My name is Vladimir Tsvetkov. I'm an entrepreneurial, hands-on, tech startup executive.
 
 <div class="screenshot">
 {% img http://farm4.staticflickr.com/3683/11784507355_bd6b8797cc_o.jpg 640 480 Krissy and I at the seaside - 2012 %}
@@ -18,22 +18,31 @@ My name is Vladimir Tsvetkov. I'm a software engineer-practitioner-programmer, c
 <a class="icon-large icon-facebook-sign" title="Friend me on Facebook" href="https://www.facebook.com/npacemo"></a>
 <a class="icon-large icon-linkedin-sign" title="LinkedIn profile" href="http://www.linkedin.com/in/vtsvetkov"></a>
 <a class="icon-large icon-so-sign" title="StackOverflow profile" href="http://stackoverflow.com/users/780831/vladimir-tsvetkov"></a>
-<a class="icon-large icon-envelope" title="Email me (vtsvetkov at obecto.com)" href="#"></a>
+<a class="icon-large icon-envelope" title="Email me (vladi at hacker.works)" href="#"></a>
 </div>
 
-### Personal
+My work explores different ways how to focus on value creation, where business, design and software merge. I oppose to the traditional ways of delivering software. Our industry overdelivers in terms of software getting built, and tremendously underdelivers in terms of value and impact. My mission is to find the most talented software teams out there and to drive their transformation. So that they can stop just churning source code and features, but design powerful collaborations with their clients and users, and start building impactful digital products that deliver valuable change to the world.
 
-I'm a strong believer in that programming languages are more than a way to instruct hardware what to do, but rather a formal medium for expressing powerful ideas about methodology. I try to pursue meaning in my everyday activities and as much as possible to consciously shape my intents and understandings of the world, life and work. I'm one of the many people on Earth that are struggling to find the life-hack that would allow me to really contribute and be really useful for the world and the society instead of just lingering through mundane tasks and necessities of imminent survival. I'm passionate about systems thinking and developing design awareness and sensibility for the value of things in a world of relativity and wastefulness. I'm a former short track speed skating international competitor, national record holder 2002 - 2007 (7:10.078 - 5000 meters men's relay, Beijing 2002 World Cup 2) and currently a competitor steward referee. I love running, building LEGO with my kid and I'm an avid espresso drinker. I'm fascinated by minimalism.
+### Professional Experience
 
-### Professional
+My professional experience started at the end of 2005 and since then I had the opportunity to perform essentially all roles, activities and responsibilities involved in the completion of a software product, as well as to operate and run a software services company. I was a Co-Founder, then VP Engineering, and lastly a CEO at Obecto - a boutique software development company that was helping many startups realize their ideas such as:
 
-My professional experience started at the end of 2005 and since then I had the chance to exercise virtually all roles and responsibilities involved in the completion of a software product and running a software company. I'm a Co-Founder and ~~VP Engineering~~ CEO of [Obecto][obecto] - a boutique software development company that's helping many startups realize their ideas ranging from massive online video conferencing to operation of hydrothermal carbonization plants. I'm also a Co-Owner and Co-Creator of [SEC Live][seclive] - a company set off to improve the way investors, analysts and fund managers work by fusing big data processing and great UX.
+* massive online video conferencing
+* maintenance, operation and management of plants that turn organic waste into coal
+* innovating the distribution models for high-quality news video content 
+* etc.
+
+I was also a shareholder and core team member at [SEC Live][seclive] - a company set off to improve the work of investors, analysts and fund managers by fusing machine learning, big data processing and user experience. 
+
+I'm currently a Co-founder and President & COO at [Hacker Works][hacker-works].
+
+For more information, check my resume on [LinkedIn][linkedin-vladi].
 
 ### Contact me
 
-* **My business:** [Obecto.com][obecto]
+* **My business:** [hacker.works][hacker-works]
 * **Twitter:** [npacemo][twitter-npacemo]
-* **Email:** vtsvetkov (at obecto.com)
+* **Email:** vladi (at hacker.works)
 
 ### About this blog
 
@@ -41,9 +50,10 @@ This blog is proudly powered by [Octopress][octopress]. I love to take my notes 
 
 I have forked the wonderful [Matvre][matvre] theme by [Bill Patrianakos][bill-patrianakos].
 
-[obecto]: http://www.obecto.com/ "Obecto - Boutique Software Development Company"
+[hacker-works]: http://hacker.works/ "Hacker Works - Where hackers deliver impact"
 [seclive]: http://www.seclive.com/ "SEC Live | Your ultimate tool for reading SEC filings"
 [twitter-npacemo]: http://twitter.com/npacemo "Follow me on Twitter"
+[linkedin-vladi]: http://www.linkedin.com/in/vtsvetkov "Vladi's LinkedIn Profile"
 [octopress]: http://octopress.org/ "Octopress - A blogging framework for hackers"
 [markdown]: http://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown"
 [vim]: http://www.vim.org/ "Vim - the editor"
