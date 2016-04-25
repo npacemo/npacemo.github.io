@@ -34,7 +34,7 @@ My professional experience started at the end of 2005 and since then I had the o
 
 I was also a shareholder and core team member at [SEC Live][seclive] - a company set off to improve the work of investors, analysts and fund managers by fusing machine learning, big data processing and user experience. 
 
-I'm currently a Co-founder and President & COO at [Hacker Works][hacker-works].
+I'm currently a Co-Founder and President & COO at [Hacker Works][hacker-works].
 
 For more information, check my resume on [LinkedIn][linkedin-vladi].
 
