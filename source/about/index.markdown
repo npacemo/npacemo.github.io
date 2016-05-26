@@ -21,7 +21,7 @@ My name is Vladimir Tsvetkov. I'm an entrepreneurial, hands-on, tech startup exe
 <a class="icon-large icon-envelope" title="Email me (vladi at hacker.works)" href="#"></a>
 </div>
 
-My work explores different ways how to focus on value creation, where business, design and software merge. I oppose to the traditional ways of delivering software. Our industry overdelivers in terms of software getting built, and tremendously underdelivers in terms of value and impact. My mission is to find the most talented software teams out there and to drive their transformation. So that they can stop just churning source code and features, but design powerful collaborations with their clients and users, and start building impactful digital products that deliver valuable change to the world.
+My work explores the new and different ways on how to focus on value creation, where business, design and software merge. I oppose to the traditional ways of delivering software. Our industry overdelivers in terms of software getting built, and tremendously underdelivers in terms of value and impact. My mission is to find the most talented software development teams out there and to drive their transformation. So that they can stop just churning source code and features, but design powerful collaborations with their clients and users, and start building impactful digital products that deliver valuable change to the world.
 
 ### Professional Experience
 
